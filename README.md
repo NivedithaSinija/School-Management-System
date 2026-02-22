@@ -28,3 +28,33 @@ Integration of Python with MySQL database
 Menu-driven user interface
 
 Structured and modular code using functions
+
+
+Technologies Used:
+
+Python
+
+MySQL
+
+Database Structure:
+Student Table:
+
+ID
+
+Name
+
+DOB
+
+Grade
+
+Section
+
+Stream (for grades 11 & 12)
+
+Teacher Table:
+
+Teacher ID
+
+Name
+
+Subject
